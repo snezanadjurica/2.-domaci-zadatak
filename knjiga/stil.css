@@ -1,0 +1,56 @@
+
+img {
+	display: block;
+	margin: auto;
+	width: 700px;
+}
+
+p {
+	background-color: white;
+	width: 700px;
+	padding: 30px;
+	margin: auto;
+	text-indent: 50px;
+	}
+
+h1 {
+	text-align: center;
+	color:black;
+	padding-top: 20px;
+}
+
+
+h1:first-letter {
+  font-size: 70px;
+}
+
+h2 {
+	color:black;
+	text-align: center;
+}
+
+
+span {
+	font-size: 50px;
+}
+
+
+#more {
+	text-align: center;
+	padding-left: 600px;
+}
+
+a {
+	text-decoration: none;
+	border: 1px solid grey;
+	padding: 5px;
+	color: grey;
+}
+
+a:hover {
+	color:red;
+}
+
+footer {
+	color: grey;
+}
